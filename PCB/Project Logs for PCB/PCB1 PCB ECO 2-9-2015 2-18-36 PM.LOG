@@ -1,0 +1,8 @@
+Added Component: Designator=L1_A(INDP8080X40M)
+Added Component: Designator=L1_D(C1210)
+Added Pin To Net: NetName=NetCbst_A_2 Pin=L1_A-1
+Added Pin To Net: NetName=NetC_in_LVR_5VD_1 Pin=L1_A-2
+Added Pin To Net: NetName=NetCbst_D_2 Pin=L1_D-1
+Added Pin To Net: NetName=NetC_BYPASS_1 Pin=L1_D-2
+Added Member To Class: ClassName=SMPS_5V_Analog Member=Component L1_A SRN8040
+Added Member To Class: ClassName=SMPS_5V_Digital Member=Component L1_D 

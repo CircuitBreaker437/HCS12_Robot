@@ -1,0 +1,27 @@
+Replace Part C_VDDR CAPACITOR POL in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAPACITOR POL from esd_library.IntLib
+Replace Part C_VDDX_1 CAPACITOR POL in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAPACITOR POL from esd_library.IntLib
+Replace Part C_VDDX_2 Cap in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Cap from esd_library.IntLib
+Replace Part C_VR_PWR CAP-X7R-.1uF-16V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-X7R-.1uF-16V-±10% from esd_library.IntLib
+Replace Part C_VRH1 CAPACITOR POL in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAPACITOR POL from esd_library.IntLib
+Replace Part C_VRH2 Cap in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Cap from esd_library.IntLib
+Replace Part C_Y1 CAP-COG-22pF-50V-±5% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-COG-22pF-50V-±5% from esd_library.IntLib
+Replace Part C_Y2 CAP-COG-22pF-50V-±5% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-COG-22pF-50V-±5% from esd_library.IntLib
+Replace Part CX1 CAP-X7R-4700pF-630V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-X7R-4700pF-630V-±10% from esd_library.IntLib
+Replace Part CX2 CAP-X7R-4700pF-630V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-X7R-4700pF-630V-±10% from esd_library.IntLib
+Replace Part CX3 CAP-X7R-.1uF-16V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-X7R-.1uF-16V-±10% from esd_library.IntLib
+Replace Part CX4 CAP-COG-10000pF-50V-±5% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CAP-COG-10000pF-50V-±5% from esd_library.IntLib
+Replace Part D_Reset Diode 1N4148 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Diode 1N4148 from esd_library.IntLib
+Replace Part H1_BDM Header 3X2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Header 3X2 from Miscellaneous Connectors.IntLib
+Replace Part H2_VRH Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Header 2 from esd_library.IntLib
+Replace Part H3_VRL Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Header 2 from esd_library.IntLib
+Replace Part L_VDDA INDUCTOR in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with INDUCTOR from esd_library.IntLib
+Replace Part R_BDM Resistor_10.0K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_10.0K from esd_library.IntLib
+Replace Part R_Pierce_EN Resistor_4.75K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_4.75K from esd_library.IntLib
+Replace Part R_RESET Resistor_10.0K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_10.0K from esd_library.IntLib
+Replace Part R_Y1 Resistor_10.0K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_10.0K from esd_library.IntLib
+Replace Part R_Y2 Resistor_1.02R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_1.02R from esd_library.IntLib
+Replace Part RX1 Resistor_5.11K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with Resistor_5.11K from esd_library.IntLib
+Replace Part SW1_RESET SWITCH_TACTILE in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with SWITCH_TACTILE from esd_library.IntLib
+Replace Part U? DS1813-10 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with DS1813-10 from esd_library.IntLib
+Replace Part U_CPU1 MC9S12C128MFUE in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with MC9S12C128MFUE from esd_library.IntLib
+Replace Part Y1 CRYSTAL/SM in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\CPU.SchDoc with CRYSTAL/SM from esd_library.IntLib

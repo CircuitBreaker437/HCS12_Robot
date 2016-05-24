@@ -1,0 +1,12 @@
+Replace Part C_ENC1_F CAP-X7R-.1uF-50V-±5% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with CAP-X7R-.1uF-50V-±5% from esd_library.IntLib
+Replace Part C_ENC2_F CAP-X7R-.1uF-50V-±5% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with CAP-X7R-.1uF-50V-±5% from esd_library.IntLib
+Replace Part H5_ENC1_TX Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Header 2 from esd_library.IntLib
+Replace Part H5_ENC2_TX Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Header 2 from esd_library.IntLib
+Replace Part H6_ENC1_RX Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Header 2 from esd_library.IntLib
+Replace Part H6_ENC2_RX Header 2 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Header 2 from esd_library.IntLib
+Replace Part R_ENC1_PWR Resistor_5.11K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Resistor_5.11K from esd_library.IntLib
+Replace Part R_ENC1_TX Resistor_475R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Resistor_475R from esd_library.IntLib
+Replace Part R_ENC2_PWR Resistor_5.11K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Resistor_5.11K from esd_library.IntLib
+Replace Part R_ENC2_TX Resistor_475R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with Resistor_475R from esd_library.IntLib
+Replace Part U_ENC2 74ACT14_3 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with 74ACT14_3 from esd_library.IntLib
+Replace Part U_ENC_1 74ACT14_3 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\Encoder_DC_Mot.SchDoc with 74ACT14_3 from esd_library.IntLib

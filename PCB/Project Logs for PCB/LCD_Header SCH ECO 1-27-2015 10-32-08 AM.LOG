@@ -1,0 +1,3 @@
+Replace Part H4_LCDHeader Header16_LCD in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LCD_Header.SchDoc with Header16_LCD from esd_library.IntLib
+Replace Part R_Cont RPot in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LCD_Header.SchDoc with RPot from esd_library.IntLib
+Replace Part R_LCD_V Resistor_221R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LCD_Header.SchDoc with Resistor_221R from esd_library.IntLib

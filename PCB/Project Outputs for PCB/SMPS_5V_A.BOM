@@ -1,0 +1,24 @@
+Bill of Material for 
+On 1/15/2015 at 6:11:13 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 10uH                                 1    L_VDDA                                            
+ Cap Pol             CAPACITOR_3MM    4    C2, C3, C4, C_BYPASS         CAP 85C 0.33uF ±20% 50V WX Series Aluminum Electrolytic 
+ Cap                 C1210            4    Cin_A, Cin_D, Cout_A, Cout_D CAP CER 2.2uF 100v X7R 1210 
+ Cap                 CAPC2012X09M    10    C1, C_Bst_A, C_Bst_D         CAP CER 47000pF 50v X7R 0805 
+                                           C_VDDX_2, C_VR_PWR, C_VRH2
+                                           C_Y1, C_Y2, Cinx_A, Cinx_D
+ CRYSTAL/SM                           1    Y1                           16MHz                
+ D Connector 9       DSUB1.385-2H9    1    J_DB9                        Receptacle Assembly, 9 Position, Right Angle 
+ DIODE SCHOTTKY 40V 2A SMA DIOM4326X23M     2    D1_5V5A, D1_5V5D             Schottky Rectifier   
+ H3x2                HDR2X3           1    H1_BDM                       Header, 3-Pin, Dual row 
+ LM22675MR-ADJ/NOPB  MRA08B_L         2    U_PS1_A, U_PS1_D             1A SIMPLE SWITCHER®, Step-Down Voltage Regulator with Precision Enable, 8-pin PSOP, Pb-Free 
+ MAX3232CSE          NSO16_N          1    U_SER1                       3.0V TO 5.5V, Low-Power, up to 1Mbps, True RS-232 Transceiver Using Four 0.1µF External Capacitor 
+ MC9S12C128MFUE      QUAD.65M/80/WG17.45-HCS12    1    U_CPU1                       IC MCU 16BIT 128KB FLASH 80QFP 
+ Res3                RESC2112X05M     4    R_BDM, R_RESET, R_Y1, R_Y2   RES SMD 10.0K OHM 1% 1/8W 0805 
+ SRN8040             INDP8080X40M     2    L1_A, L1_D                   FIXED IND 22UH 2.2A 100 MOHM SMD 
+ SWITCH_TACTILE                       1    S_RES1                       SWITCH TACTILE SPST-NO 0.05A 12V 
+ TANT.                                3    C_VDDR, C_VDDX_1, C_VRH1                          
+ VRH_EN              HDR1X2           1    H2_VRH                       Header, 2-Pin        
+ VRL_EN              HDR1X2           1    H2_VRL                       Header, 2-Pin        

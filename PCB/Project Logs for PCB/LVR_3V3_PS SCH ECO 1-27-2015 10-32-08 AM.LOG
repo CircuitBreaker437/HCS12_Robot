@@ -1,0 +1,3 @@
+Replace Part C_in_LVR_5VD CAPACITOR POL in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LVR_3V3_PS.SchDoc with CAPACITOR POL from esd_library.IntLib
+Replace Part Cout_LVR3V3 CAPACITOR POL in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LVR_3V3_PS.SchDoc with CAPACITOR POL from esd_library.IntLib
+Replace Part U1_LVR_3V3 LM1117IMP-ADJ/NOPB in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\LVR_3V3_PS.SchDoc with LM1117IMP-ADJ/NOPB from esd_library.IntLib

@@ -1,0 +1,9 @@
+Replace Part C2F_DC1 CAP-X7R-.1uF-100V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with CAP-X7R-.1uF-100V-±10% from esd_library.IntLib
+Replace Part C_ENA_DC1 CAP-X7R-5600pF-50V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with CAP-X7R-5600pF-50V-±10% from esd_library.IntLib
+Replace Part C_ENB_DC1 CAP-X7R-5600pF-50V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with CAP-X7R-5600pF-50V-±10% from esd_library.IntLib
+Replace Part C_F_DC1 Cap Polar-100uF-16V in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with Cap Polar-100uF-16V from esd_library.IntLib
+Replace Part CBoot_DC1 CAP-X7R-2.2uF-16V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with CAP-X7R-2.2uF-16V-±10% from esd_library.IntLib
+Replace Part R_ENA_DC1 Resistor_100R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with Resistor_100R from esd_library.IntLib
+Replace Part R_ENB_DC1 Resistor_100R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with Resistor_100R from esd_library.IntLib
+Replace Part RVCP_DC1 Resistor_100R in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with Resistor_100R from esd_library.IntLib
+Replace Part U2_DC_Motor1 L6225 in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\DCMotor1CTRL.SchDoc with L6225 from esd_library.IntLib

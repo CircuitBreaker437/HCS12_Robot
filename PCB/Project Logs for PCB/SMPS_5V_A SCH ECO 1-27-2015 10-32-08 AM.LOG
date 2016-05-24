@@ -1,0 +1,8 @@
+Replace Part Cbst_A CAP-X7R-10000pF-50V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with CAP-X7R-10000pF-50V-±10% from esd_library.IntLib
+Replace Part Cin_A CAP-X7R-2.2uF-16V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with CAP-X7R-2.2uF-16V-±10% from esd_library.IntLib
+Replace Part Cinx_A CAP-X7R-1uF-16V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with CAP-X7R-1uF-16V-±10% from esd_library.IntLib
+Replace Part Cout_A CAP-X5R-10uF-10V-±10% in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with CAP-X5R-10uF-10V-±10% from esd_library.IntLib
+Replace Part D1_5V5A DIODE SCHOTTKY 40V 2A SMA in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with DIODE SCHOTTKY 40V 2A SMA from esd_library.IntLib
+Replace Part Rfb1_A Resistor_1.00K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with Resistor_1.00K from esd_library.IntLib
+Replace Part Rfb2_A Resistor_2.87K in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with Resistor_2.87K from esd_library.IntLib
+Replace Part U_PS1_A LM22675MR-ADJ/NOPB in C:\Users\marcin\Documents\ESE\2015\Project\HCS12\PCB\SMPS_5V_A.SchDoc with LM22675MR-ADJ/NOPB from esd_library.IntLib
